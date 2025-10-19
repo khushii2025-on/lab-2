@@ -1,7 +1,7 @@
 const redSlider   = document.getElementById('red');    
 const greenSlider = document.getElementById('green');  
 const blueSlider  = document.getElementById('blue');   
-const bodyEl      = document.body;                     
+const bodyEl      = document.body;                    
 const hexOutput   = document.getElementById('hexValue'); 
 const rgbOutput   = document.getElementById('rgbValue'); 
 
